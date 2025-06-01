@@ -4,15 +4,26 @@ This project is a smart waste management system using the PIC16F877A microcontro
 
 ## 📘 Project Overview
 
-The Smart Waste Management System is an embedded system project designed to automate the detection, sorting, and monitoring of waste using the **PIC16F877A** microcontroller. The goal is to reduce manual labor, improve the efficiency of waste segregation, and promote cleaner and smarter waste disposal practices. By utilizing a combination of sensors, actuators, and display elements, the system intelligently classifies waste and manages the bin’s fill status.
+The Smart Waste Management System is an embedded project built using the **PIC16F877A** microcontroller. It automates waste detection, sorting, and bin level monitoring to encourage efficient and eco-friendly disposal practices. This system combines sensors, a servo motor, and a display interface to create an intelligent solution for managing household or public waste bins.
 
-The core functionality revolves around two primary sensors: an **inductive proximity sensor**, which detects metallic waste, and an **IR sensor** for detecting general non-metallic waste. When an item is placed into the system, the microcontroller uses these sensors to determine the type of material. Based on the detection, a **servo motor** is rotated to direct the waste into the appropriate bin—ensuring proper segregation at the source.
+### 🔧 Key Functions:
 
-In addition to sorting, the system incorporates a **Sharp IR distance sensor** to monitor the fill level of the waste bin. This sensor continuously checks whether the bin is nearing capacity. The current bin status is displayed in real time on a **16x2 LCD**, providing users with visual feedback. When the bin reaches a predefined threshold, a **buzzer** is activated as an alert to notify the user that the bin needs to be emptied.
+- **Waste Type Detection:**
+  - 🧲 Inductive sensor detects metallic objects.
+  - 📡 IR sensor identifies non-metallic/general waste.
 
-A **push button** is included to simulate the bin emptying process. When pressed, the system triggers an **interrupt routine** that resets the bin status and returns the servo to its default position. This feature helps in mimicking real-world operations and testing the system's response to external user interaction.
+- **Automated Sorting:**
+  - 🔄 Servo motor rotates to guide waste into the correct bin based on sensor input.
 
-Overall, this project demonstrates the effective integration of sensors, actuators, and microcontroller programming to create a compact and intelligent waste management solution. It is ideal for smart homes, schools, and public places where maintaining hygiene and efficient waste handling is critical. The project also serves as a great educational tool for understanding real-world embedded system applications.
+- **Bin Fill Monitoring:**
+  - 📏 Sharp IR sensor checks the fill level of the bin.
+  - 🖥️ LCD shows real-time system status.
+  - 🔔 Buzzer alerts when the bin is full.
+
+- **User Interaction:**
+  - 🔘 Push button triggers an interrupt to simulate bin emptying and reset system status.
+
+This project showcases how simple electronics and microcontroller logic can be used to solve real-world problems in sustainability and automation. It’s ideal for learning embedded systems and building environmentally conscious solutions.
 
 
 ## Features
