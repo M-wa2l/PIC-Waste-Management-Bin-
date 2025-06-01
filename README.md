@@ -20,8 +20,7 @@ This project is a smart waste management system using the PIC16F877A microcontro
 - MPLAB X + pic-as assembler for programming
 
 - ## Simulation
-- 
+Uploading Simulation.mp4…
 
-https://github.com/user-attachments/assets/d21c3985-a4fc-4fdf-9e1c-29b5d63a1c0c
 
 
