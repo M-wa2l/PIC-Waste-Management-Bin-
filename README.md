@@ -9,19 +9,19 @@ The Smart Waste Management System is an embedded project built using the **PIC16
 ### 🔧 Key Functions:
 
 - **Waste Type Detection:**
-  - 🧲 Inductive sensor detects metallic objects.
-  - 📡 IR sensor identifies non-metallic/general waste.
+  - Inductive sensor detects metallic objects.
+  - IR sensor identifies non-metallic/general waste.
 
 - **Automated Sorting:**
-  - 🔄 Servo motor rotates to guide waste into the correct bin based on sensor input.
+  - Servo motor rotates to guide waste into the correct bin based on sensor input.
 
 - **Bin Fill Monitoring:**
-  - 📏 Sharp IR sensor checks the fill level of the bin.
-  - 🖥️ LCD shows real-time system status.
-  - 🔔 Buzzer alerts when the bin is full.
+  - Sharp IR sensor checks the fill level of the bin.
+  - LCD shows real-time system status.
+  - Buzzer alerts when the bin is full.
 
 - **User Interaction:**
-  - 🔘 Push button triggers an interrupt to simulate bin emptying and reset system status.
+  - Push button triggers an interrupt to simulate bin emptying and reset system status.
 
 This project showcases how simple electronics and microcontroller logic can be used to solve real-world problems in sustainability and automation. It’s ideal for learning embedded systems and building environmentally conscious solutions.
 
