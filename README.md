@@ -1,2 +1,2 @@
 # PIC-Waste-Management-Bin-
-djbvjebvjbdvb ebrfejbjrv juberjubvfjuer
+This project is a smart waste management system using the PIC16F877A microcontroller. It sorts waste with an inductive sensor for metals and an IR sensor for other materials, using a servo to direct items into the correct bin. A Sharp IR sensor monitors the bin's fill level, displaying status on an LCD and activating a buzzer when full. A push button triggers a bin emptying mode. The system promotes efficient, automated waste handling.
