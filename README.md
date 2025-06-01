@@ -21,6 +21,8 @@ This project is a smart waste management system using the PIC16F877A microcontro
 - ## Simulation
 https://github.com/user-attachments/assets/ac2a3ab3-5947-431f-990c-a5d92cf43e0f
 
+*Feel free to contribute or suggest improvements!* 
+
 
 
 
