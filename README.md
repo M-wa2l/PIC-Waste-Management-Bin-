@@ -3,3 +3,18 @@ This project is a smart waste management system using the PIC16F877A microcontro
 
 
 ## Features
+
+
+## Components Used
+
+- PIC16F877A microcontroller
+- Inductive proximity sensor
+- IR sensor
+- Sharp IR distance sensor
+- Servo motor
+- LCD (16x2) display
+- Buzzer
+- Push button
+- Resistors, capacitors, and power supply
+- Proteus for simulation
+- MPLAB X + pic-as assembler for programming
