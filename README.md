@@ -26,6 +26,12 @@ The Smart Waste Management System is an embedded project built using the **PIC16
 This project showcases how simple electronics and microcontroller logic can be used to solve real-world problems in sustainability and automation. It’s ideal for learning embedded systems and building environmentally conscious solutions.
 
 
+
+https://github.com/user-attachments/assets/3288e61c-772c-4c12-873f-80c4aadc7561
+
+
+
+
 ## 🧰Components Used
 
 - PIC16F877A microcontroller
