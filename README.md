@@ -5,7 +5,7 @@ This project is a smart waste management system using the PIC16F877A microcontro
 ## Features
 
 
-## Components Used
+## 🧰Components Used
 
 - PIC16F877A microcontroller
 - Inductive proximity sensor
